@@ -1,0 +1,53 @@
+/* Padrões */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Classes */
+
+.sol-cred {
+    top: 0;
+    right: 0;
+    width: 335px;
+    height: 50px;
+    background: #07bc83;
+    color: #FFF;
+}
+
+.sol-cred-sm {
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 40px;
+    background: #07bc83;
+    color: #FFF;
+}
+
+.line-all {
+    width: 100%;
+    height: 10px;
+}
+
+.line1 {
+    background: #02b8bf;
+}
+
+.line2 {
+    background: #1990ce;
+}
+
+.line3 {
+    background: #07bc83;
+}
+
+.email-header {
+    color: #02b8bf;
+}
+
+.sol-cred-change:hover {
+    transition: .7s;
+    background: #1990ce;
+}
