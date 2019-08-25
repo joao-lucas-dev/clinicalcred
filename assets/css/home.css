@@ -73,6 +73,28 @@ body {
     background: #02b8bf;
 }
 
+.title-c-sorrindo {
+    font: normal normal normal 70px/1.4em avenir-lt-w01_85-heavy1475544, sans-serif;
+    color: #FFF;
+}
+
+.title-c-sorrindo-md {
+    font: normal normal normal 33px/1.4em avenir-lt-w01_85-heavy1475544, sans-serif;
+    color: #FFF;
+}
+
+.block-c-sorrindo {
+    width: 20px;
+    height: 20px;
+    background: #FFF;
+}
+
+.block-c-sorrindo-md {
+    width: 10px;
+    height: 10px;
+    background: #FFF;
+}
+
 
 /* Footer */
 
