@@ -73,3 +73,35 @@ body {
     height: 10px;
     background: #02b8bf;
 }
+
+
+/* Footer */
+
+footer {
+    background: #F2F2F2;
+}
+
+.img-footer {
+    width: 25px;
+}
+
+.clinical-cred-copy {
+    color: #666666;
+    font-size: 13px;
+}
+
+.inputs {
+    width: 362px;
+    border: none;
+    font-size: 14px;
+}
+
+.txtarea-footer {
+    font-size: 14px;
+}
+
+.button-footer {
+    background: #02b8bf;
+    color: #FFF;
+    font-size: 14px;
+}
