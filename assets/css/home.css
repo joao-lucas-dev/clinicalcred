@@ -51,3 +51,25 @@ body {
     transition: .7s;
     background: #1990ce;
 }
+
+.title-q-somos {
+    font: normal normal normal 70px/1.4em avenir-lt-w01_85-heavy1475544, sans-serif;
+    color: #02b8bf;
+}
+
+.title-q-somos-md {
+    font: normal normal normal 33px/1.4em avenir-lt-w01_85-heavy1475544, sans-serif;
+    color: #02b8bf;
+}
+
+.block-q-somos {
+    width: 20px;
+    height: 20px;
+    background: #02b8bf;
+}
+
+.block-q-somos-md {
+    width: 10px;
+    height: 10px;
+    background: #02b8bf;
+}
